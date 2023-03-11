@@ -7,11 +7,11 @@
 
  > A voice assistant easy Python small projects.
 
-![Issues](https://img.shields.io/github/issues/ndleah/python-mini-project?style=social&logo=github)
-![Pull Requests](https://img.shields.io/github/issues-pr/ndleah/python-mini-project?style=social&logo=github)
-![Forks](https://img.shields.io/github/forks/ndleah/python-mini-project?style=social&logo=github)
-![Stars](https://img.shields.io/github/stars/ndleah/python-mini-project?style=social&logo=github)
-[![License](https://img.shields.io/github/license/ndleah/python-mini-project?style=social&logo=github)](https://github.com/ndleah/python-mini-project/blob/main/LICENSE)
+![Issues](https://img.shields.io/github/issues/alemam242/Voice-Assistant----Ai-Project?style=social&logo=github)
+![Pull Requests](https://img.shields.io/github/issues-pr/alemam242/Voice-Assistant----Ai-Project?style=social&logo=github)
+![Forks](https://img.shields.io/github/forks/alemam242/Voice-Assistant----Ai-Project?style=social&logo=github)
+![Stars](https://img.shields.io/github/stars/alemam242/Voice-Assistant----Ai-Project?style=social&logo=github)
+[![License](https://img.shields.io/github/license/alemam242/Voice-Assistant----Ai-Project?style=social&logo=github)](https://github.com/alemam242/Voice-Assistant----Ai-Project/blob/main/LICENSE)
 
 ## ![image](img/aiming.svg) Aim Of The Project
 
