@@ -15,7 +15,7 @@
 
 ## ![image](img/aiming.svg) Aim Of The Project
 
-As a Python newbie, I understand the problems that people face when they first begin studying and attempting to understand various Data Science concepts, particularly Python. This project is designed for folks who are just getting started with Python principles and exploring GitHub as "contributors."
+As a Python newbie, I understand the problems that people face when they first begin studying and attempting to understand basic concepts, particularly Python. This project is designed for folks who are just getting started with Python principles and exploring GitHub as "contributors."
 
 My goal is to build a common playground where everyone, from beginners to experts, can learn and share knowledge, and I hope you enjoy your stay here!
 
